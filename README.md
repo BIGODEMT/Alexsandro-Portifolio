@@ -31,6 +31,10 @@ Site ao vivo com GitHubPage:
 
 https://bigodemt.github.io/Alexsandro-Portifolio/
 
+Hospedado no Vercel: 
+
+https://alexsandro-portifolio.vercel.app/
+
 ## Estrutura do projeto
 
 - `index.html` - marcação do site
