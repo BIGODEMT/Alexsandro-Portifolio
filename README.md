@@ -27,6 +27,10 @@ O site traz:
    ```
 3. Acesse `http://localhost:8000` no navegador.
 
+Site ao vivo com GitHubPage:
+
+https://bigodemt.github.io/Alexsandro-Portifolio/
+
 ## Estrutura do projeto
 
 - `index.html` - marcação do site
